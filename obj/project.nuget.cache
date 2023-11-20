@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ujQRyvsOuFgVnJE6vuAgDcOXNKgDV1E3zIBTT/JbfQfK4K04OpW85S5sI1CALmy2hfyb2o08Ci2IVQb/Dav6JQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\batyr\\source\\repos\\C#6\\C#6\\C#6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\batyr\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
